@@ -20,6 +20,7 @@ const Logo: React.FC = () => {
           blurDataURL={`/_next/image?url=${IMAGES.LOGO_URL}&w=16&q=1`}
           loader={imageLoader}
           priority
+          sizes="50vw"
         />
       </Box>
     </Link>
