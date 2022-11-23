@@ -29,6 +29,7 @@ const BookCard: React.FC<Props> = ({ book }) => {
             width="300"
             height="500"
             loader={imageLoader}
+            priority={+book.id < 3}
           />
         </Box>
         <Box>

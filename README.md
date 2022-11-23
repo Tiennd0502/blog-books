@@ -6,17 +6,19 @@
 
 ## Tech stacks
 
-- Next.js
+- [NextJS](https://nextjs.org/) - 12.3.1
 
-- React
+- [React](https://reactjs.org/) - 18.2.0
 
-- TypeScript
+- [TypeScript](https://www.typescriptlang.org/) - 4.8.4
 
-- Storybook
+- [Storybook](https://storybook.js.org/) - 6.5.12
 
-- Chakra UI
+- [Chakra UI](https://chakra-ui.com/) - 2.3.6
 
-- Jest, React testing library
+- [Jest](https://jestjs.io/) - 29.2.1
+
+- [React testing library](https://testing-library.com/docs/react-testing-library/intro/) - 13.4.0
 
 ## Timeline
 
@@ -71,8 +73,8 @@
 | Command                                                                 | Action                                         |
 |:------------------------------------------------------------------------|:-----------------------------------------------|
 | `git clone git@gitlab.asoft-python.com:g-tiennguyen/react-training.git` | Download source code                           |
-| `git checkout feature/practice-one`                                     | Move branch                                    |
-| `cd react-training/practice-nextjs/practice-one`                        | Move to the folder containing the source code  |
+| `git checkout blog-books-app`                                           | Move branch                                    |
+| `cd react-training/blog-books`                                          | Move to the folder containing the source code  |
 | `pnpm install`                                                          | Installs dependencies                          |
 | `pnpm test-coverage`                                                    | Run test with coverage                         |
 | `pnpm storybook`                                                        | Preview UI component: `http://localhost:6006`  |
