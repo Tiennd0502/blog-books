@@ -1,0 +1,23 @@
+.book {
+  margin-bottom: 32px;
+  cursor: pointer;
+}
+
+
+.bookImgThumb {
+  margin-bottom: 16px;
+  transition: transform 0.3s;
+}
+
+.book .bookTitle {
+  font-weight: 800;
+}
+
+.book:hover .bookImgThumb {
+  transform: translateY(-8px);
+}
+
+.book:hover .bookTitle {
+  text-decoration: underline;
+  color: var(--color-secondary);
+}

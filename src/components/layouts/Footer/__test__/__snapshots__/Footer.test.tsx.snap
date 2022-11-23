@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component Matches snapshot 1`] = `
+<div>
+  <footer
+    class="css-1ry9sjz"
+    data-testid="footer"
+  >
+    <div
+      class="chakra-container css-caqc3d"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        OpenSource Textbook empowers and connects authors and readers through open access to a global reading and publishing platform.
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        Vancouver Community College, Vancouver, B.C., Canada
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        © 2022 by NIKEA
+      </p>
+    </div>
+  </footer>
+</div>
+`;

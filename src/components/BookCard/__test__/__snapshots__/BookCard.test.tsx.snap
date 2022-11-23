@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookCard component Matches snapshot 1`] = `
+<div>
+  <div
+    class="book css-0"
+    role="link"
+  >
+    <div
+      class="bookImgThumb css-0"
+    >
+      <span
+        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+      >
+        <span
+          style="box-sizing: border-box; display: block; background: none; opacity: 1; border: 0px; margin: 0px; padding: 166.66666666666669% 0px 0px 0px;"
+        />
+        <img
+          alt="The Threshold"
+          data-nimg="responsive"
+          decoding="async"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(/_next/image?url=https://49thshelf.com/var/ezflow_site/storage/images/books/t/the-threshold/9780374604271_cover/604130664-1-eng-CA/9780374604271_cover_wide_960.jpg&w=16&q=1);"
+        />
+        <noscript />
+      </span>
+    </div>
+    <div
+      class="css-0"
+    >
+      <p
+        class="chakra-text bookTitle css-0"
+      >
+        The Threshold
+      </p>
+      <p
+        class="chakra-text css-0"
+      >
+        by 
+        Iman Mersal
+      </p>
+    </div>
+  </div>
+</div>
+`;
