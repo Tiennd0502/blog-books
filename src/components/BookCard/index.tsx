@@ -30,6 +30,7 @@ const BookCard: React.FC<Props> = ({ book }) => {
             height="500"
             loader={imageLoader}
             priority={+book.id < 3}
+            sizes="(max-width: 768px) 50vw, (max-width: 1200px) 25vw, 20vw"
           />
         </Box>
         <Box>
